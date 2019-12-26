@@ -1,2 +1,2 @@
 # LostViking
-proof of concept using P5.js
+Proof of concept using P5.js
